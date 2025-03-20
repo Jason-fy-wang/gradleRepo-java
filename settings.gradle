@@ -1,0 +1,5 @@
+plugins {
+}
+
+rootProject.name = 'gradleRepo-java'
+include('app')
